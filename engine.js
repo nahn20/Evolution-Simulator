@@ -1,5 +1,5 @@
-const foodRate = 1;
-const startingFood = 100;
+const foodRate = 0.1;
+const startingFood = 50;
 const startingMinions = 100;
 var ctx;
 var cvsDim = [window.innerWidth, window.innerHeight]
